@@ -15,6 +15,9 @@ More info here: [XAU.Finance](https://xau.finance)
 Much of this code base is modified from existing works, including:
 
 [Compound](https://compound.finance) - Jumping off point for token code and governance
+
 [Ampleforth](https://ampleforth.org) - Initial rebasing mechanism, modified to better suit the YAM protocol
+
 [Synthetix](https://synthetix.io) - Rewards staking contract
+
 [YEarn](https://yearn.finance)/[YFI](https://ygov.finance) - Initial fair distribution implementation
