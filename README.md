@@ -2,10 +2,15 @@ XAU.Finance Protocol
 =================
 
 The project consists of two main pillars its tokens and planned NFT based game. 
+
 XAU.Finance economic system currently consists of 2 rebasing tokens:
+
 *xauGOLD (xGOLD)*
+
 *xauUSD (xUSD)*
 
+  
+  
 xGOLD and xUSD are rebasing tokens similar to Ampleforth (AMPL), however with added Fee-on-Transactions (FoT) that provides sustainable APY for Liquidity Pool farmers and less sell pressure that benefits token holders.
 
 More info here: [XAU.Finance](https://xau.finance)
